@@ -43,7 +43,7 @@ def drag(x, y):
         t.ondrag(drag)
         screen.update()
     else:
-        t.pu() # too cold ez win🥶
+        t.pu()
         t.undo()
         t.pd()
 
